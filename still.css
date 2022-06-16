@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1, h2{
+	font-family:"Arial Black", Gadget, sans-serif;
+	color:black;
+}
+
+body{
+	background-image:url(slike/milad-fakurian-lz8j9lMe-oA-unsplash.jpg);
+}
+
+p{
+	color: black;
+	font-family:"Lucida Console", Monaco, monospace;
+	font-size:16px;
+	line-height:18px;
+	width: 600px;
+	background-color:antiquewhite;
+	padding:20px;
+}
